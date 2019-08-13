@@ -71,19 +71,19 @@ From the following images results, we can assume our model is **sensitive to lig
 
 Mean(1.88) Std(1.03)           |  Mean(2.0) Std(0.91) 
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/1e0tNd1.jpg" alt="drawing" width="800" height="250"/>  | <img src="https://i.imgur.com/ZH9IQ5G.jpg" alt="drawing" width="800" height="250"/>
+<img src="https://i.imgur.com/1e0tNd1.jpg" alt="drawing" width="600" height="250"/>  | <img src="https://i.imgur.com/ZH9IQ5G.jpg" alt="drawing" width="600" height="250"/>
 
 Mean(2.46) Std(0.52)           |  Mean(2.85) Std(0.48) 
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/Mn8AUai.jpg" alt="drawing" width="800" height="250"/>  | <img src="https://i.imgur.com/0H2lUeV.jpg" alt="drawing" width="800" height="250"/>
+<img src="https://i.imgur.com/Mn8AUai.jpg" alt="drawing" width="600" height="250"/>  | <img src="https://i.imgur.com/0H2lUeV.jpg" alt="drawing" width="600" height="250"/>
 
 Mean(1.65) Std(0.63)           |  Mean(2.23) Std(0.68) 
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/9f2y9ER.jpg" alt="drawing" width="800" height="150"/>  | <img src="https://i.imgur.com/N0JS2Mf.jpg" alt="drawing" width="800" height="200"/>
+<img src="https://i.imgur.com/9f2y9ER.jpg" alt="drawing" width="600" height="150"/>  | <img src="https://i.imgur.com/N0JS2Mf.jpg" alt="drawing" width="600" height="200"/>
 
 Mean           |  Std
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/vfZdZQR.jpg" alt="drawing" width="800" height="300"/> | <img src="https://i.imgur.com/2Msh4rr.jpg" alt="drawing" width="800" height="300"/> 
+<img src="https://i.imgur.com/vfZdZQR.jpg" alt="drawing" width="600" height="300"/> | <img src="https://i.imgur.com/2Msh4rr.jpg" alt="drawing" width="600" height="300"/> 
 
 
 
