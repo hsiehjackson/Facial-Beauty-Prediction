@@ -68,6 +68,7 @@ alt="drawing"/>
 
 ## Images Results
 From the following images results, we can assume our model is **sensitive to light**, such as white and black color. However, we would obtained lower scores for the brightest images regarding different value and statuation (HSV).
+
 Mean(1.88) Std(1.03)           |  Mean(2.0) Std(0.91) 
 :-------------------------:|:-------------------------:
 <img src="https://i.imgur.com/1e0tNd1.jpg" alt="drawing" width="1000" height="250"/>  | <img src="https://i.imgur.com/ZH9IQ5G.jpg" alt="drawing" width="1000" height="250"/>
