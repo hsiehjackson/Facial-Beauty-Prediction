@@ -79,7 +79,7 @@ Mean(2.46) Std(0.52)           |  Mean(2.85) Std(0.48)
 
 Mean(1.65) Std(0.63)           |  Mean(2.23) Std(0.68) 
 :-------------------------:|:-------------------------:
-<img src="https://i.imgur.com/9f2y9ER.jpg" alt="drawing" width="1000" height="150"/>  | <img src="https://i.imgur.com/N0JS2Mf.jpg" alt="drawing" width="1000" height="200"/>
+<img src="https://i.imgur.com/9f2y9ER.jpg" alt="drawing" width="1000" height="250"/>  | <img src="https://i.imgur.com/N0JS2Mf.jpg" alt="drawing" width="1000" height="300"/>
 
 Mean           |  Std
 :-------------------------:|:-------------------------:
