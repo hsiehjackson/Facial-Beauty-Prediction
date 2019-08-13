@@ -4,7 +4,7 @@ In this project, we are trying to develop a **facial beauty prediction** framewo
 ## How to Use
 * Git clone the code
 ```
-git clone https://github.com/hsiehjackson/fashion-ceiba
+git clone https://github.com/hsiehjackson/Facial-Beauty-Prediction.git
 ```
 * Download the dataset and extract zip file 
 ```
