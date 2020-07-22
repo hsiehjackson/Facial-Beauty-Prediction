@@ -1,5 +1,5 @@
 # [107-1] Cognitive Computing Final - Facial Beauty Prediction
-In this project, we are trying to develop a **facial beauty prediction** framework based on [Paper](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/SCUT_FBP5500.pdf). We estimate the attractiveness rating of faces from [SCUT_FBP5500](https://drive.google.com/file/d/1w0TorBfTIqbquQVd6k3h_77ypnrvfGwf/view) dataset and build a **live demo system** to view the results with a laptop camera.
+In this project, we are trying to develop a **facial beauty prediction** framework based on [Paper](https://arxiv.org/pdf/1801.06345.pdf). We estimate the attractiveness rating of faces from [SCUT_FBP5500](https://drive.google.com/file/d/1w0TorBfTIqbquQVd6k3h_77ypnrvfGwf/view) dataset and build a **live demo system** to view the results with a laptop camera.
 
 ## Usage
 * Git clone the code and install package
